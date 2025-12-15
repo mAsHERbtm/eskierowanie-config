@@ -1,16 +1,14 @@
 {
-  "latestVersion": "1.3.0",
-  "minSupportedVersion": "1.1.0",
-  "blockedVersions": ["1.0.1"],
-  "warnMinVersion": "1.2.0",
-  "updateUrl": "https://twoja-strona/aktualizacje",
+  "latestVersion": "1.1.0",
+  "minVersion": "1.0.0",
+  "updateUrl": "https://github.com/mAsHERbtm/eskierowanie-manager/releases",
   "messages": [
     {
-      "id": "xmas-2025-pl",
-      "text": "Wesołych Świąt! 🎄",
-      "type": "INFO",
-      "validFrom": "2025-12-20T00:00:00Z",
-      "validUntil": "2025-12-27T23:59:59Z"
+      "id": "msg_welcome_01",
+      "title": "System e-Skierowań",
+      "content": "Witaj w nowym systemie zarządzania!",
+      "type": "INFO"
     }
-  ]
+  ],
+  "signature": "MGQCMEalBwd3j0p+k0uJXgWo5k8VOXBqZ24foaTQbHa8gkNr6ZbTeIjNrxhduwsNpNTNgAIwai8tgGp1oZbeVQ2wKahL/S6Q/6TSVC9Pm+0zxzqkf81RZS1SBpgZLN1AAhvmevpg"
 }
