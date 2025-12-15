@@ -1,14 +1,12 @@
 {
-    "latestVersion":  "1.2.0",
-    "minVersion":  "1.1.0",
-    "updateUrl":  "https://github.com/mAsHERbtm/eskierowanie-manager/releases",
-    "messages":  [
-                     {
-                         "id":  "msg_welcome_01",
-                         "title":  "System e-Skierowań",
-                         "content":  "Witaj w nowym systemie zarządzania!",
-                         "type":  "INFO"
-                     }
-                 ],
-    "signature":  "KfW/iEeZKF5MFO6TIBkQphnBq5efAseo/s6kSj1rwQQ5k3uBg/0Bgep/ObPfAFeuTSX/3zYsA1/1qEbHOSC2dOCXJY2Vr6RJl/rj2pO6SAXcjM2RPvhQrQDUccMLMeBz"
+  "latestVersion" : "1.2.0",
+  "minVersion" : "1.1.0",
+  "updateUrl" : "https://github.com/mAsHERbtm/eskierowanie-manager/releases",
+  "messages" : [ {
+    "id" : "msg_welcome_01",
+    "title" : "System e-Skierowań",
+    "content" : "Witaj w nowym systemie zarządzania!",
+    "type" : "INFO"
+  } ],
+  "signature" : "MGYCMQDtTfT2EEMChYsqC98Jzkp+jgXe/GMsBjRdTYoL1Ldf7SQtVUuTYIF9fdw1UTn1KjUCMQDZg9q2xcVlspLU4Tcx/Qi5cdzEJKe4j5IZ7XyqH6F3Ymy9zyseO3qIpLduE0spXUI="
 }
