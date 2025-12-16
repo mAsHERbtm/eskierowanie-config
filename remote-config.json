@@ -1,6 +1,6 @@
 {
-  "latestVersion" : "1.0.0",
-  "minVersion" : "1.0.0",
+  "latestVersion" : "1.2.0",
+  "minVersion" : "1.1.0",
   "updateUrl" : "https://github.com/mAsHERbtm/eskierowanie-manager/releases",
   "messages" : [ {
     "id" : "msg_welcome_01",
@@ -8,5 +8,5 @@
     "content" : "Witaj w nowym systemie zarządzania!",
     "type" : "INFO"
   } ],
-  "signature" : "MGUCMAKtxKCK5U2LE9OCBt+vDvIKbhM9eSv31+y5KTOCjnZ5q5VzufYyL8H9EdlmipQ12wIxAIzxv/gKW+YMwoFfcPBmjze/b3Kfe/E900u1epTpj5g0PKGT20OjzPSUdnPbFFhaZg=="
+  "signature" : "MGQCMGCDgcj1O1NF/hxJxu6sjDZn3RDtlZu4mz6cEyc6lPm/GU6/LTQgdsguSpIvayKnnwIwOiJtnnHSyOSPrmgxGHMJOeVHpUV1Wv5u+fdZ2NKuVbVVaUicvDsQ6ZPjSrot4ePM"
 }
