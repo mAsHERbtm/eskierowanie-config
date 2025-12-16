@@ -1,5 +1,5 @@
 {
-  "latestVersion" : "1.1.0",
+  "latestVersion" : "1.0.0",
   "minVersion" : "1.0.0",
   "messages" : [ {
     "id" : "msg_welcome_01",
@@ -7,5 +7,5 @@
     "content" : "Witaj w nowym systemie zarządzania!",
     "type" : "INFO"
   } ],
-  "signature" : "MGUCMQCsK2+WeguDl9ZaBPxRZq1NA1iMKt4U/MRY+P3dLbLAP1IGZb40mV9URoV4c2Dj/zUCMACDu4c790n7YlTs5PTXnbD4RgxPqSHaKScZJ8UXTyLDZZ794HeyiOx5sqtyDvHz3A=="
+  "signature" : "MGUCMEI3kJ/KFoxWtSNG8w8dUD4cv6QBEfyuNh744Q1/XmxwsAYzw3d1SccPvCRopPynEQIxAJytn20mfxY9EEN280KC/x8nyMSayl1TVclofAvoJIYB8o2QZ+kLEN38y+F7GGPKAQ=="
 }
