@@ -1,12 +1,12 @@
 {
-  "latestVersion" : "1.2.0",
+  "latestVersion" : "1.1.0",
   "minVersion" : "1.0.0",
-  "updateUrl" : "www.wp.pl",
+  "updateUrl" : "www.onet.pl",
   "messages" : [ {
     "id" : "msg_4ce4e01d",
     "title" : "Test",
     "content" : "Super program",
     "type" : "INFO"
   } ],
-  "signature" : "MGYCMQCPQZYY3Ixn48oILr4bEmdRiiSckFsRLCpjJ7xsuwRWVMkKQEjnM91aSEwKgPDQyukCMQCwMPSuy5XdT+eEWbqGSer0dBhM9K2oAeHsrgobtjRYx6ArIcIV6qMEqyBPUZBh7EY="
+  "signature" : "MGUCMQDjIi39mD1zNuuiLw8S8Qpwa0IydkuBGZCFq8chlzUKQABZMPcqj86/DaPtuDsXPSMCMCKZabRFkLcDfXtX/JIVtBS76knBHGohVw78Q5tN+xKyiNl1T70x8ZBiBONkaZPXrQ=="
 }
