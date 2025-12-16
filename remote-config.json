@@ -1,11 +1,12 @@
 {
-  "latestVersion" : "1.0.0",
+  "latestVersion" : "1.2.0",
   "minVersion" : "1.0.0",
+  "updateUrl" : "www.wp.pl",
   "messages" : [ {
-    "id" : "msg_welcome_01",
-    "title" : "System e-Skierowań",
-    "content" : "Witaj w nowym systemie zarządzania!",
+    "id" : "msg_4ce4e01d",
+    "title" : "Test",
+    "content" : "Super program",
     "type" : "INFO"
   } ],
-  "signature" : "MGUCMEI3kJ/KFoxWtSNG8w8dUD4cv6QBEfyuNh744Q1/XmxwsAYzw3d1SccPvCRopPynEQIxAJytn20mfxY9EEN280KC/x8nyMSayl1TVclofAvoJIYB8o2QZ+kLEN38y+F7GGPKAQ=="
+  "signature" : "MGYCMQCPQZYY3Ixn48oILr4bEmdRiiSckFsRLCpjJ7xsuwRWVMkKQEjnM91aSEwKgPDQyukCMQCwMPSuy5XdT+eEWbqGSer0dBhM9K2oAeHsrgobtjRYx6ArIcIV6qMEqyBPUZBh7EY="
 }
